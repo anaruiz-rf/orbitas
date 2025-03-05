@@ -1,0 +1,87 @@
+@import url("css/bootstrap-4.4.1.css");
+.img-satelite {
+}
+.m-8 {
+}
+.titulo-satelite {
+    border-top-right-radius: 0%;
+    text-indent: -2px;
+}
+.mt-9 {
+    margin-top: 83px;
+}
+.fondo-color {
+    background-color: rgba(59,128,209,0.31);
+    margin-right: 23px;
+}
+.mt-3cartas {
+    margin-top: 41px;
+    margin-bottom: 41px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-right: 27px;
+    margin-left: 27px;
+}
+.center-text {
+    text-align: center;
+}
+.fondo-color2 {
+    background-color: rgba(30,102,189,0.68);
+}
+.color-tipo {
+    color: rgba(233,228,215,1.00);
+}
+.fondo-completo {
+    background-color: rgba(252,248,241,1.00);
+
+}
+.fondo-completo {
+    background-color: rgba(253,248,238,1.00);
+}
+.btn-aguamarina {
+}
+
+.img-mid{
+	margin: auto;
+	width: 60px;
+	height: auto;
+}
+.color_noticias {
+    background-color: rgba(44,44,44,0.44);
+}
+.img_solarsystem {
+    background-image: url(images/earth_horizon_milky_way_4k.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-size: cover;
+}
+.color-tipografia2 {
+    color: rgba(255,255,255,1.00);
+}
+.mt-lg {
+}
+.multi {
+    width: 100%;
+    min-height: 0px;
+    padding-right: 0px;
+    height: 30%;
+    padding-top: 200px;
+    bottom: -40%;
+}
+.img-planetamulti1 {
+    background-image: url(images/planetamulti.jpg);
+}
+.textmulti {
+    color: #FFFFFF;
+    text-align: left;
+    text-decoration: none;
+}
+.imgmulti {
+    width: 80%;
+
+
+
+
+}
